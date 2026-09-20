@@ -1,1 +1,0 @@
-const b=document.querySelector('.menu'),n=document.querySelector('nav');b.addEventListener('click',()=>n.style.display=n.style.display==='flex'?'none':'flex');
