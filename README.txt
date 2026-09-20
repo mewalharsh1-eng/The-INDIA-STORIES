@@ -1,1 +1,0 @@
-Premium concept for The Indian Stories. Verify all details and replace stock images with owner-approved photos before commercial use.
